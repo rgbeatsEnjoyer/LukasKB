@@ -8,4 +8,5 @@ A unique (as far as i'm aware) keyboard using an alice and HHKB inspired FRLTKL 
 
 # Features only on the low profile version:
 -Low profile, comfortable Kahil Choc mechanical switches
+
 -One board, decreasing cost and improving portability
