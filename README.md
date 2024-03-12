@@ -1,5 +1,5 @@
 # Luca Keyboard
-A unique (as far as i'm aware) keyboard using an alice and HHKB inspired FRLTKL keyboard. The recomended version is the low profile version, but full height MX/ALPS version is avaliable, as well as an MX plate for a handwired build. Powered by the RP2040, this keyboard supports {insert firmware and vial if i set it up} for plenty of layers and user-customisable layouts. As of writing, there are no stabilisers avaliable for the low profile version (unless you're willing to harvest them from something else), but any plate mount or pcb mounted stabilisers can be used for the mx version.
+A unique (as far as i'm aware) keyboard using an alice and HHKB inspired FRLTKL keyboard. The recomended version is the low profile version, but full height MX/ALPS version is avaliable, as well as an MX plate for a handwired build. Powered by the RP2040, this keyboard supports {insert firmware and vial if i set it up} for plenty of layers and user-customisable layouts. As of writing, there are no stabilisers avaliable for the low profile version (unless you're willing to use plate mounted choc stabilisers), but any plate mount or pcb mounted stabilisers can be used for the mx version.
 
 # Features on both versions:
 - An ergonomic, compact and practical design
