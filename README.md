@@ -1,4 +1,4 @@
-# Luca Keyboard
+# Lukas Keyboard
 
 ~Important~
 I haven't actually finished making the choc version, or even started on the MX/Alps version
